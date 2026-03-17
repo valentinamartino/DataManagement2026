@@ -243,33 +243,51 @@ penguins |>
 # Mostra solo i pinguini che appartengono
 # alle specie Adelie oppure Gentoo
 # e tieni solo species, island, body_mass_g
+penguins |> 
+  filter(species == "Adelie" | species == "Gentoo") |> 
+  select(species, island, body_mass_g)
 
 
 ### ESERCIZIO 8
 # Mostra solo i pinguini dell'isola Biscoe
 # con body_mass_g > 4500
 # e tieni solo species, island, body_mass_g, sex
+penguins |> 
+  filter(island == "Biscoe") |> 
+  select(species, island, body_mass_g, sex)
 
 
 ### ESERCIZIO 9
 # Seleziona tutte le colonne tranne year e sex
 # poi filtra solo i pinguini della specie Chinstrap
+penguins |> 
+  select(1:6) |> 
+  filter(species == "Chinstrap")
+
 
 
 ### ESERCIZIO 10
 # Mostra solo i pinguini con bill_length_mm > 45
 # e flipper_length_mm > 210
 # poi tieni solo species, bill_length_mm, flipper_length_mm
+penguins |> 
+  filter(bill_length_mm > 45, flipper_length_mm > 210) |> 
+  select(species, bill_length_mm, flipper_length_mm)
 
 
 ### ESERCIZIO 11
 # Mostra solo i pinguini con sex mancante (NA)
 # e tieni solo species, island, sex
+penguins |> 
+  filter(is.na(sex)) |> 
+  select(species, island, sex)
 
 
 ### ESERCIZIO 12
 # Mostra solo i pinguini con body_mass_g mancante (NA)
 # oppure bill_length_mm mancante (NA)
+penguins |> 
+  filter(is.na(body_mass_g) | is.na(bill_length_mm))
 
 
 ### ESERCIZIO 13
@@ -277,6 +295,10 @@ penguins |>
 # - stanno su Dream oppure Torgersen
 # - NON sono Gentoo
 # poi tieni solo species, island, bill_length_mm
+penguins |> 
+  filter(island == "Dream" | island == "Torgersen") |> 
+  filter(species != "Gentoo") |> 
+  select(species, island, bill_length_mm)
 
 
 ### ESERCIZIO 14
@@ -284,6 +306,9 @@ penguins |>
 # - body_mass_g compreso tra 4000 e 5000
 # - flipper_length_mm maggiore di 190
 # poi tieni solo species, island, flipper_length_mm, body_mass_g
+penguins |> 
+  filter(body_mass_g > 4000, body_mass_g < 5000, flipper_length_mm > 190) |> 
+  select(species, island, flipper_length_mm, body_mass_g)
 
 
 ### ESERCIZIO 15
@@ -292,3 +317,6 @@ penguins |>
 # OPPURE
 # - specie Adelie e flipper_length_mm < 190
 # poi tieni solo species, island, flipper_length_mm, body_mass_g
+penguins |> 
+  filter(species == "Gentoo", body_mass_g < 5500 | species == "Adelie", flipper_length_mm < 190) |> 
+  select(species, island, flipper_length_mm, body_mass_g)
