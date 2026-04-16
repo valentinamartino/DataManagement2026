@@ -1,0 +1,2972 @@
+species,year,season,prey.species,prey.sex,prey.age,prey.mass,prey.size,edible.biomass
+leopard,2014,dry,Aardvark,unknown,adult,52.4,medium,41.9
+leopard,2014,dry,Aardvark,unknown,adult,52.4,medium,41.9
+leopard,2015,wet,Aardvark,unknown,subadult,36.6,medium,29.3
+leopard,2013,wet,"Baboon, chacma",male,adult,31.8,medium,25.4
+leopard,2015,wet,"Baboon, chacma",male,adult,31.8,medium,25.4
+leopard,2015,wet,"Baboon, chacma",male,adult,31.8,medium,25.4
+leopard,2015,wet,"Baboon, chacma",male,adult,31.8,medium,25.4
+leopard,2015,dry,"Baboon, chacma",female,adult,15.4,small,13.9
+leopard,2014,dry,"Baboon, chacma",female,adult,15.4,small,13.9
+leopard,2015,dry,"Baboon, chacma",unknown,subadult,16.5,small,14.9
+leopard,2015,dry,"Baboon, chacma",unknown,subadult,16.5,small,14.9
+leopard,2014,dry,"Baboon, chacma",unknown,subadult,16.5,small,14.9
+leopard,2015,dry,"Baboon, chacma",unknown,juvenile,7.1,small,6.4
+leopard,2015,wet,"Baboon, chacma",unknown,juvenile,7.1,small,6.4
+leopard,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2013,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2013,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.9
+leopard,2014,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2013,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,dry,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2013,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2013,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2014,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,wet,Bushbuck,female,subadult,25.9,medium,20.7
+leopard,2015,wet,Bushbuck,female,adult,37.0,medium,29.6
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2014,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2014,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2014,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2014,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2014,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2014,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2014,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,dry,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2014,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2014,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2014,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2013,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2014,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2015,wet,Bushbuck,male,adult,50.0,medium,40.0
+leopard,2013,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2014,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2014,wet,Bushbuck,male,subadult,35.0,medium,28.0
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2014,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2014,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2014,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2013,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2014,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2014,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,wet,Bushbuck,unknown,juvenile,13.1,small,11.8
+leopard,2015,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2013,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2013,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,dry,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,wet,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,wet,"Canerat, greater",unknown,subadult,2.8,small,2.5
+leopard,2014,wet,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,wet,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2015,wet,"Canerat, greater",unknown,adult,4.1,small,3.7
+leopard,2014,dry,"Civet, African",unknown,adult,12.5,small,11.3
+leopard,2015,wet,"Civet, African",unknown,adult,12.5,small,11.3
+leopard,2015,wet,"Civet, African",unknown,adult,12.5,small,11.3
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2014,dry,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,dry,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2014,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,dry,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2014,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2013,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2014,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2013,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,subadult,11.5,small,10.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2015,wet,"Duiker, common",unknown,juvenile,4.9,small,4.4
+leopard,2014,wet,"Duiker, common",unknown,adult,16.5,small,14.9
+leopard,2013,dry,"Francolin, crested",unknown,adult,0.4,small,0.4
+leopard,2014,dry,"Genet, large spotted",unknown,subadult,1.2,small,1.1
+leopard,2015,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+leopard,2015,wet,"Goose, Egyptian",unknown,juvenile,0.6,small,0.5
+leopard,2014,dry,"Guineafowl, helmeted",unknown,adult,1.3,small,1.2
+leopard,2014,dry,"Guineafowl, helmeted",unknown,adult,1.3,small,1.2
+leopard,2015,dry,"Guineafowl, helmeted",unknown,adult,1.3,small,1.2
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2013,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,dry,"Hare, scrub",unknown,juvenile,0.7,small,0.6
+leopard,2015,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,dry,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2013,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2014,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hare, scrub",unknown,subadult,1.7,small,1.5
+leopard,2015,wet,"Hare, scrub",unknown,adult,2.4,small,2.2
+leopard,2015,wet,"Hyaena, spotted",male,subadult,43.8,medium,35.0
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2013,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,dry,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2013,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2014,wet,Impala,female,subadult,28.6,medium,22.9
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2015,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,wet,Impala,female,adult,40.9,medium,32.7
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2014,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2015,dry,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2013,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,wet,Impala,male,subadult,38.1,medium,30.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2014,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2015,wet,Impala,male,adult,54.4,medium,43.5
+leopard,2013,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+leopard,2014,dry,"Jackal, side-striped",unknown,adult,8.9,small,8.0
+leopard,2015,dry,"Jackal, side-striped",unknown,adult,8.9,small,8.0
+leopard,2015,wet,"Jackal, side-striped",unknown,adult,8.9,small,8.0
+leopard,2015,wet,Klipspringer,unknown,juvenile,3.6,small,3.2
+leopard,2014,dry,Kudu,female,adult,152.1,large,106.5
+leopard,2015,dry,Kudu,female,adult,152.1,large,106.5
+leopard,2015,dry,Kudu,female,subadult,106.5,large,79.9
+leopard,2013,dry,Kudu,female,subadult,106.5,large,79.9
+leopard,2014,dry,Kudu,female,adult,152.1,large,106.5
+leopard,2015,dry,Kudu,female,subadult,106.5,large,79.9
+leopard,2015,dry,Kudu,female,adult,152.1,large,106.5
+leopard,2015,dry,Kudu,female,subadult,106.5,large,79.9
+leopard,2015,dry,Kudu,female,subadult,106.5,large,79.9
+leopard,2015,dry,Kudu,female,subadult,106.5,large,79.9
+leopard,2014,wet,Kudu,female,adult,152.1,large,106.5
+leopard,2014,wet,Kudu,female,subadult,106.5,large,79.9
+leopard,2015,wet,Kudu,female,adult,152.1,large,106.5
+leopard,2015,wet,Kudu,female,subadult,106.5,large,79.9
+leopard,2015,wet,Kudu,female,adult,152.1,large,106.5
+leopard,2014,wet,Kudu,female,adult,152.1,large,106.5
+leopard,2015,wet,Kudu,female,subadult,106.5,large,79.9
+leopard,2013,dry,Kudu,male,adult,220.8,large,154.6
+leopard,2015,dry,Kudu,male,adult,220.8,large,154.6
+leopard,2014,wet,Kudu,male,subadult,154.6,large,108.2
+leopard,2014,wet,Kudu,male,subadult,154.6,large,108.2
+leopard,2015,wet,Kudu,male,adult,220.8,large,154.6
+leopard,2014,wet,Kudu,male,subadult,154.6,large,108.2
+leopard,2014,wet,Kudu,male,subadult,154.6,large,108.2
+leopard,2013,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,dry,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2013,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2015,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+leopard,2014,wet,Leopard,unknown,juvenile,42.5,medium,34.0
+leopard,2014,dry,Leopard,unknown,juvenile,25.0,small,20.0
+leopard,2015,dry,Leopard,unknown,juvenile,12.0,small,10.8
+leopard,2015,wet,Leopard,unknown,juvenile,3.0,small,2.7
+leopard,2014,wet,Leopard,unknown,juvenile,1.0,small,0.9
+leopard,2015,dry,"Mongoose, banded",unknown,adult,1.4,small,1.3
+leopard,2014,dry,"Mongoose, banded",unknown,subadult,0.9,small,0.8
+leopard,2015,dry,"Mongoose, slender",unknown,adult,0.6,small,0.5
+leopard,2014,dry,"Mongoose, white-tailed",unknown,adult,4.3,small,3.9
+leopard,2015,dry,"Mongoose, white-tailed",unknown,adult,4.3,small,3.9
+leopard,2013,wet,"Monitor, rock",unknown,juvenile,2.2,small,2.0
+leopard,2015,wet,"Monitor, rock",unknown,adult,7.3,small,6.6
+leopard,2015,wet,"Monitor, rock",unknown,adult,7.3,small,6.6
+leopard,2015,wet,"Monitor, rock",unknown,adult,7.3,small,6.6
+leopard,2015,dry,"Monitor, water",unknown,adult,5.0,small,4.5
+leopard,2015,dry,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2013,dry,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,dry,"Monkey, vervet",unknown,subadult,3.4,small,3.1
+leopard,2015,dry,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2013,dry,"Monkey, vervet",unknown,subadult,3.4,small,3.1
+leopard,2014,dry,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,dry,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,dry,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2014,dry,"Monkey, vervet",unknown,juvenile,1.4,small,1.3
+leopard,2013,dry,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2013,wet,"Monkey, vervet",unknown,juvenile,1.4,small,1.3
+leopard,2015,wet,"Monkey, vervet",unknown,subadult,3.4,small,3.1
+leopard,2015,wet,"Monkey, vervet",unknown,juvenile,1.4,small,1.3
+leopard,2014,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2014,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2013,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2014,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2014,wet,"Monkey, vervet",unknown,juvenile,1.4,small,1.3
+leopard,2014,wet,"Monkey, vervet",unknown,subadult,3.4,small,3.1
+leopard,2015,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,wet,"Monkey, vervet",unknown,juvenile,1.4,small,1.3
+leopard,2014,wet,"Monkey, vervet",unknown,juvenile,1.4,small,1.3
+leopard,2015,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,wet,"Monkey, vervet",unknown,adult,4.8,small,4.3
+leopard,2015,dry,Nyala,male,adult,107.5,large,80.6
+leopard,2013,dry,Nyala,male,adult,107.5,large,80.6
+leopard,2015,dry,Nyala,male,adult,107.5,large,80.6
+leopard,2015,dry,Nyala,male,adult,107.5,large,80.6
+leopard,2015,dry,Nyala,male,adult,107.5,large,80.6
+leopard,2015,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2015,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2013,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2015,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2015,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2015,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2015,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2014,wet,Nyala,male,adult,107.5,large,80.6
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2014,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2014,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2014,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2014,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,dry,Nyala,female,adult,61.8,medium,49.4
+leopard,2014,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2014,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,dry,Nyala,female,subadult,43.3,medium,34.6
+leopard,2013,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2014,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,wet,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,wet,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,wet,Nyala,female,subadult,43.3,medium,34.6
+leopard,2013,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2013,wet,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,wet,Nyala,female,subadult,43.3,medium,34.6
+leopard,2015,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2015,wet,Nyala,female,adult,61.8,medium,49.4
+leopard,2014,dry,Nyala,male,subadult,75.3,medium,60.2
+leopard,2013,dry,Nyala,male,subadult,75.3,medium,60.2
+leopard,2015,dry,Nyala,male,subadult,75.3,medium,60.2
+leopard,2015,wet,Nyala,male,subadult,75.3,medium,60.2
+leopard,2014,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2013,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2014,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2013,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,dry,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2014,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2014,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2013,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2013,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2013,wet,Nyala,unknown,juvenile,25.4,small,20.3
+leopard,2015,dry,Pangolin,unknown,adult,10.9,small,9.8
+leopard,2014,dry,"Porcupine, crested",unknown,adult,12.2,small,11.0
+leopard,2013,wet,"Porcupine, crested",unknown,adult,12.2,small,11.0
+leopard,2015,wet,"Porcupine, crested",unknown,adult,12.2,small,11.0
+leopard,2014,wet,"Porcupine, crested",unknown,adult,12.2,small,11.0
+leopard,2015,dry,"Python, African rock",unknown,adult,55.0,medium,44.0
+leopard,2014,dry,"Python, African rock",unknown,adult,55.0,medium,44.0
+leopard,2013,wet,"Python, African rock",unknown,subadult,38.5,medium,30.8
+leopard,2015,wet,"Python, African rock",unknown,subadult,38.5,medium,30.8
+leopard,2015,dry,"Reedbuck, common",female,adult,38.2,medium,30.6
+leopard,2015,dry,"Reedbuck, common",female,adult,38.2,medium,30.6
+leopard,2013,wet,"Reedbuck, common",female,adult,38.2,medium,30.6
+leopard,2015,wet,"Reedbuck, common",female,adult,38.2,medium,30.6
+leopard,2015,dry,"Reedbuck, common",male,adult,51.8,medium,41.4
+leopard,2014,dry,Serval,unknown,adult,10.4,small,9.4
+leopard,2014,dry,"Spurfowl, Natal",unknown,adult,0.5,small,0.5
+leopard,2014,wet,"Spurfowl, Natal",unknown,juvenile,0.1,small,0.1
+leopard,2013,wet,"Squirrel, tree",unknown,adult,0.2,small,0.2
+leopard,2015,wet,"Squirrel, tree",unknown,adult,0.2,small,0.2
+leopard,2014,dry,Steenbok,unknown,juvenile,3.3,small,3.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,dry,Steenbok,unknown,juvenile,3.3,small,3.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,dry,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2015,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2013,wet,Steenbok,unknown,adult,11.1,small,10.0
+leopard,2014,wet,"Stork, white",unknown,adult,3.4,small,3.1
+leopard,2014,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,wet,"Tortoise, sp.",unknown,subadult,3.0,small,2.7
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2013,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,dry,Warthog,female,adult,56.5,medium,45.2
+leopard,2013,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2014,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2015,wet,Warthog,female,adult,56.5,medium,45.2
+leopard,2013,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2014,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2014,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2014,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,dry,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2013,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2014,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,wet,Warthog,male,adult,79.6,medium,63.7
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,dry,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2014,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2013,wet,Warthog,unknown,subadult,47.6,medium,38.1
+leopard,2015,dry,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,dry,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,dry,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,dry,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,dry,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,dry,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,dry,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2013,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+leopard,2014,dry,Waterbuck,female,subadult,126.0,large,94.5
+leopard,2014,wet,Waterbuck,female,adult,180.0,large,126.0
+leopard,2014,dry,Waterbuck,male,subadult,168.0,large,117.6
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2014,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2013,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2014,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2014,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2014,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2014,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2014,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2014,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2013,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+leopard,2015,dry,"Wildebeest, blue",female,subadult,135.1,large,101.3
+leopard,2014,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+leopard,2013,wet,"Wildebeest, blue",male,subadult,161.7,large,113.2
+leopard,2014,dry,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2015,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2015,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2013,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2015,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+leopard,2015,dry,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2014,dry,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2013,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2015,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2015,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+leopard,2015,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2014,dry,Aardvark,unknown,adult,52.4,medium,41.9
+lion,2013,wet,"Baboon, chacma",unknown,adult,23.6,small,18.9
+lion,2015,dry,"Buffalo, African",female,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",female,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",female,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",female,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",male,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",male,adult,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",male,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,dry,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2013,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2013,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2013,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2013,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2013,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2013,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2015,wet,"Buffalo, African",unknown,juvenile,165.5,large,115.8
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2013,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2013,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,dry,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2013,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,dry,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2013,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2013,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2013,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2013,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2013,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2013,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2013,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2013,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2014,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,adult,513.0,very large,307.8
+lion,2015,wet,"Buffalo, African",female,subadult,359.1,very large,233.4
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,dry,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2013,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2013,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2014,wet,"Buffalo, African",male,adult,590.0,very large,354.0
+lion,2015,wet,"Buffalo, African",male,subadult,413.0,very large,268.5
+lion,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+lion,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+lion,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+lion,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+lion,2014,dry,Bushbuck,female,adult,37.0,medium,29.6
+lion,2015,dry,Bushbuck,female,adult,37.0,medium,29.6
+lion,2014,dry,Bushbuck,male,adult,50.0,medium,40.0
+lion,2015,dry,Bushbuck,male,subadult,35.0,medium,28.0
+lion,2015,dry,Bushbuck,male,adult,50.0,medium,40.0
+lion,2015,dry,Bushbuck,unknown,juvenile,13.1,small,11.7
+lion,2015,dry,"Duiker, common",male,adult,16.2,small,14.6
+lion,2015,dry,"Duiker, common",male,adult,16.2,small,14.6
+lion,2015,wet,Elephant,unknown,juvenile,1369.5,very large,684.8
+lion,2015,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2015,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2013,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2014,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2014,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2014,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2015,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2015,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2013,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2014,dry,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2013,wet,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2014,wet,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2013,wet,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2015,wet,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2014,wet,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2013,wet,Giraffe,unknown,juvenile,303.0,large,212.1
+lion,2013,dry,Giraffe,female,adult,828.0,very large,496.8
+lion,2015,dry,Giraffe,female,adult,828.0,very large,496.8
+lion,2015,dry,Giraffe,female,adult,828.0,very large,496.8
+lion,2015,dry,Giraffe,female,adult,828.0,very large,496.8
+lion,2015,wet,Giraffe,female,adult,828.0,very large,496.8
+lion,2015,wet,Giraffe,female,subadult,579.6,very large,347.8
+lion,2013,wet,Giraffe,female,adult,828.0,very large,496.8
+lion,2013,wet,Giraffe,female,adult,828.0,very large,496.8
+lion,2015,dry,Giraffe,male,adult,1192.0,very large,655.6
+lion,2015,dry,Giraffe,male,adult,1192.0,very large,655.6
+lion,2015,dry,Giraffe,male,adult,1192.0,very large,655.6
+lion,2014,dry,Giraffe,male,subadult,834.4,very large,500.6
+lion,2013,wet,Giraffe,male,adult,1192.0,very large,655.6
+lion,2013,wet,Giraffe,male,adult,1192.0,very large,655.6
+lion,2015,wet,Giraffe,male,adult,1192.0,very large,655.6
+lion,2015,dry,Hippo,female,subadult,924.7,very large,554.8
+lion,2014,wet,Hippo,female,subadult,924.7,very large,554.8
+lion,2015,dry,Hippo,male,juvenile,421.7,very large,274.1
+lion,2015,dry,Hippo,male,juvenile,421.7,very large,274.1
+lion,2013,wet,Hippo,male,subadult,1043.0,very large,573.7
+lion,2015,dry,Hippo,unknown,juvenile,421.7,very large,274.1
+lion,2015,wet,Hippo,unknown,juvenile,421.7,very large,274.1
+lion,2015,wet,Hippo,unknown,juvenile,421.7,very large,274.1
+lion,2014,wet,Honey badger,male,adult,12.0,small,10.8
+lion,2015,dry,"Hyaena, spotted",female,adult,68.2,medium,54.6
+lion,2015,dry,"Hyaena, spotted",female,adult,68.2,medium,54.6
+lion,2015,wet,"Hyaena, spotted",female,adult,68.2,medium,54.6
+lion,2015,dry,"Hyaena, spotted",unknown,juvenile,19.6,small,17.6
+lion,2013,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2013,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2014,dry,Impala,female,adult,40.9,medium,32.7
+lion,2013,dry,Impala,female,adult,40.9,medium,32.7
+lion,2014,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,subadult,28.6,medium,22.9
+lion,2014,dry,Impala,female,adult,40.9,medium,32.7
+lion,2014,dry,Impala,female,subadult,28.6,medium,22.9
+lion,2014,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2013,dry,Impala,female,adult,40.9,medium,32.7
+lion,2014,dry,Impala,female,adult,40.9,medium,32.7
+lion,2014,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2015,dry,Impala,female,adult,40.9,medium,32.7
+lion,2013,dry,Impala,female,subadult,28.6,medium,22.9
+lion,2013,wet,Impala,female,subadult,28.6,medium,22.9
+lion,2014,wet,Impala,female,adult,40.9,medium,32.7
+lion,2014,wet,Impala,female,subadult,28.6,medium,22.9
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2013,wet,Impala,female,adult,40.9,medium,32.7
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2013,wet,Impala,female,adult,40.9,medium,32.7
+lion,2014,wet,Impala,female,subadult,28.6,medium,22.9
+lion,2014,wet,Impala,female,adult,40.9,medium,32.7
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2014,wet,Impala,female,subadult,28.6,medium,22.9
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2014,wet,Impala,female,adult,40.9,medium,32.7
+lion,2015,wet,Impala,female,adult,40.9,medium,32.7
+lion,2013,wet,Impala,female,adult,40.9,medium,32.7
+lion,2014,wet,Impala,female,adult,40.9,medium,32.7
+lion,2013,wet,Impala,female,subadult,28.6,medium,22.9
+lion,2013,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2013,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2013,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2015,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2014,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2013,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,subadult,38.1,medium,30.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,adult,54.4,medium,43.5
+lion,2015,dry,Impala,male,adult,54.4,medium,43.5
+lion,2014,wet,Impala,male,adult,54.4,medium,43.5
+lion,2014,wet,Impala,male,adult,54.4,medium,43.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2014,wet,Impala,male,adult,54.4,medium,43.5
+lion,2014,wet,Impala,male,adult,54.4,medium,43.5
+lion,2013,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2013,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2013,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2013,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2015,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2013,wet,Impala,male,adult,54.4,medium,43.5
+lion,2015,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2014,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2013,wet,Impala,male,adult,54.4,medium,43.5
+lion,2014,wet,Impala,male,subadult,38.1,medium,30.5
+lion,2015,wet,Impala,male,adult,54.4,medium,43.5
+lion,2014,dry,Impala,male,juvenile,14.3,small,12.9
+lion,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2014,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2013,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2015,wet,Impala,unknown,juvenile,14.3,small,12.9
+lion,2014,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2013,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2014,dry,Kudu,female,adult,152.1,large,106.5
+lion,2014,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2014,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,adult,152.1,large,106.5
+lion,2014,dry,Kudu,female,adult,152.1,large,106.5
+lion,2015,dry,Kudu,female,subadult,106.5,large,79.9
+lion,2015,dry,Kudu,female,subadult,106.5,large,79.9
+lion,2015,dry,Kudu,female,subadult,106.5,large,79.9
+lion,2014,wet,Kudu,female,subadult,106.5,large,79.9
+lion,2013,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2014,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,subadult,106.5,large,79.9
+lion,2014,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2014,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2014,wet,Kudu,female,adult,152.1,large,106.5
+lion,2015,wet,Kudu,female,adult,152.1,large,106.5
+lion,2013,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,subadult,154.6,large,108.2
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2013,dry,Kudu,male,subadult,154.6,large,108.2
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2013,dry,Kudu,male,adult,220.8,large,154.6
+lion,2013,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,subadult,154.6,large,108.2
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,subadult,154.6,large,108.2
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,subadult,154.6,large,108.2
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2014,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,dry,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,subadult,154.6,large,108.2
+lion,2014,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2013,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2014,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2014,wet,Kudu,male,adult,220.8,large,154.6
+lion,2014,wet,Kudu,male,adult,220.8,large,154.6
+lion,2013,wet,Kudu,male,adult,220.8,large,154.6
+lion,2013,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2013,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2015,wet,Kudu,male,adult,220.8,large,154.6
+lion,2014,wet,Kudu,female,juvenile,55.9,medium,44.7
+lion,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+lion,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+lion,2014,wet,Kudu,unknown,juvenile,55.9,medium,44.7
+lion,2014,dry,Leopard,male,subadult,61.5,medium,49.2
+lion,2014,dry,Leopard,unknown,juvenile,10.0,small,9.0
+lion,2015,dry,Lion,female,adult,126.0,large,94.5
+lion,2015,dry,Lion,female,adult,126.0,large,94.5
+lion,2015,dry,Lion,female,subadult,88.2,medium,70.6
+lion,2015,wet,Lion,female,subadult,88.2,medium,70.6
+lion,2015,dry,Lion,unknown,juvenile,20.0,small,18.0
+lion,2014,dry,"Mongoose, white-tailed",unknown,adult,4.3,small,3.9
+lion,2013,dry,Nyala,male,adult,107.5,large,80.6
+lion,2013,dry,Nyala,male,adult,107.5,large,80.6
+lion,2014,dry,Nyala,male,adult,107.5,large,80.6
+lion,2015,dry,Nyala,male,adult,107.5,large,80.6
+lion,2013,dry,Nyala,male,adult,107.5,large,80.6
+lion,2014,dry,Nyala,male,adult,107.5,large,80.6
+lion,2013,dry,Nyala,male,adult,107.5,large,80.6
+lion,2015,dry,Nyala,male,adult,107.5,large,80.6
+lion,2014,dry,Nyala,male,adult,107.5,large,80.6
+lion,2013,dry,Nyala,male,adult,107.5,large,80.6
+lion,2015,dry,Nyala,male,adult,107.5,large,80.6
+lion,2015,dry,Nyala,male,adult,107.5,large,80.6
+lion,2013,dry,Nyala,male,adult,107.5,large,80.6
+lion,2015,dry,Nyala,male,adult,107.5,large,80.6
+lion,2015,dry,Nyala,male,adult,107.5,large,80.6
+lion,2013,wet,Nyala,male,adult,107.5,large,80.6
+lion,2015,wet,Nyala,male,adult,107.5,large,80.6
+lion,2015,wet,Nyala,male,adult,107.5,large,80.6
+lion,2015,wet,Nyala,male,adult,107.5,large,80.6
+lion,2014,wet,Nyala,male,adult,107.5,large,80.6
+lion,2013,wet,Nyala,male,adult,107.5,large,80.6
+lion,2015,wet,Nyala,male,adult,107.5,large,80.6
+lion,2015,dry,Nyala,female,adult,61.8,medium,49.4
+lion,2014,dry,Nyala,female,adult,61.8,medium,49.4
+lion,2015,dry,Nyala,female,adult,61.8,medium,49.4
+lion,2015,dry,Nyala,female,subadult,43.3,medium,34.6
+lion,2015,dry,Nyala,female,adult,61.8,medium,49.4
+lion,2015,dry,Nyala,male,subadult,75.3,medium,60.2
+lion,2015,dry,Nyala,male,subadult,75.3,medium,60.2
+lion,2015,wet,Nyala,female,juvenile,25.4,small,20.3
+lion,2015,dry,"Porcupine, crested",unknown,adult,12.2,small,10.9
+lion,2014,wet,"Porcupine, crested",unknown,adult,12.2,small,10.9
+lion,2014,dry,"Reedbuck, common",female,adult,38.2,medium,30.6
+lion,2014,dry,"Reedbuck, common",male,adult,51.8,medium,41.4
+lion,2013,dry,"Rhino, white",female,subadult,1120.0,very large,616.0
+lion,2013,wet,"Rhino, white",male,subadult,1540.0,very large,770.0
+lion,2013,dry,"Rhino, white",unknown,juvenile,570.0,very large,342.0
+lion,2015,wet,"Rhino, white",unknown,juvenile,570.0,very large,342.0
+lion,2014,wet,"Tortoise, sp.",female,adult,5.0,small,4.5
+lion,2015,wet,"Tortoise, sp.",unknown,adult,5.0,small,4.5
+lion,2015,dry,Warthog,female,adult,56.5,medium,45.2
+lion,2014,dry,Warthog,female,adult,56.5,medium,45.2
+lion,2014,dry,Warthog,female,adult,56.5,medium,45.2
+lion,2015,dry,Warthog,female,adult,56.5,medium,45.2
+lion,2014,dry,Warthog,female,adult,56.5,medium,45.2
+lion,2015,dry,Warthog,female,adult,56.5,medium,45.2
+lion,2013,dry,Warthog,female,subadult,56.5,medium,45.2
+lion,2014,dry,Warthog,female,adult,56.5,medium,45.2
+lion,2013,wet,Warthog,female,adult,56.5,medium,45.2
+lion,2015,wet,Warthog,female,adult,56.5,medium,45.2
+lion,2015,wet,Warthog,female,adult,56.5,medium,45.2
+lion,2015,wet,Warthog,female,subadult,39.6,medium,31.6
+lion,2014,wet,Warthog,female,adult,56.5,medium,45.2
+lion,2015,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2014,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2015,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2015,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2014,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2015,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2014,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2014,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2014,dry,Warthog,male,subadult,55.7,medium,44.6
+lion,2015,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2014,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2015,dry,Warthog,male,adult,79.6,medium,63.7
+lion,2014,wet,Warthog,male,subadult,55.7,medium,44.6
+lion,2014,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2015,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2013,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2015,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2013,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2015,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2014,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2014,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2014,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2013,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2015,wet,Warthog,male,adult,79.6,medium,63.7
+lion,2014,dry,Warthog,unknown,juvenile,20.4,small,18.4
+lion,2015,dry,Warthog,unknown,juvenile,20.4,small,18.4
+lion,2015,wet,Warthog,unknown,juvenile,20.4,small,18.4
+lion,2015,dry,Waterbuck,female,adult,180.0,large,126.0
+lion,2015,dry,Waterbuck,female,adult,180.0,large,126.0
+lion,2015,dry,Waterbuck,female,adult,180.0,large,126.0
+lion,2015,dry,Waterbuck,female,adult,180.0,large,126.0
+lion,2013,wet,Waterbuck,female,adult,180.0,large,126.0
+lion,2014,wet,Waterbuck,female,adult,180.0,large,126.0
+lion,2015,wet,Waterbuck,female,adult,180.0,large,126.0
+lion,2013,wet,Waterbuck,female,adult,180.0,large,126.0
+lion,2014,wet,Waterbuck,female,adult,180.0,large,126.0
+lion,2014,wet,Waterbuck,female,adult,180.0,large,126.0
+lion,2014,wet,Waterbuck,female,subadult,126.0,large,94.5
+lion,2015,wet,Waterbuck,female,subadult,126.0,large,94.5
+lion,2013,dry,Waterbuck,male,subadult,168.0,large,117.6
+lion,2015,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2014,dry,Waterbuck,male,subadult,168.0,large,117.6
+lion,2014,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2013,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,dry,Waterbuck,male,subadult,168.0,large,117.6
+lion,2014,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2014,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2014,dry,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2013,wet,Waterbuck,male,subadult,168.0,large,117.6
+lion,2013,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2014,wet,Waterbuck,male,subadult,168.0,large,117.6
+lion,2015,wet,Waterbuck,male,subadult,168.0,large,117.6
+lion,2015,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2013,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2013,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2013,wet,Waterbuck,male,subadult,168.0,large,117.6
+lion,2014,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2013,wet,Waterbuck,male,adult,240.0,large,168.0
+lion,2015,wet,Waterbuck,male,juvenile,63.0,medium,50.4
+lion,2015,wet,Waterbuck,male,juvenile,63.0,medium,50.4
+lion,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+lion,2015,dry,Waterbuck,unknown,juvenile,63.0,medium,50.4
+lion,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+lion,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+lion,2014,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+lion,2015,wet,Waterbuck,unknown,juvenile,63.0,medium,50.4
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",female,subadult,135.1,large,101.3
+lion,2014,dry,"Wildebeest, blue",female,subadult,135.1,large,101.3
+lion,2014,dry,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,dry,"Wildebeest, blue",female,subadult,135.1,large,101.3
+lion,2013,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2013,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,subadult,135.1,large,101.3
+lion,2014,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2013,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2013,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,subadult,135.1,large,101.3
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2015,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2013,wet,"Wildebeest, blue",female,adult,193.0,large,135.1
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2013,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2013,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2013,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,wet,"Wildebeest, blue",male,subadult,161.7,large,113.2
+lion,2015,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2013,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2015,wet,"Wildebeest, blue",male,subadult,161.7,large,113.2
+lion,2014,wet,"Wildebeest, blue",male,adult,231.0,large,161.7
+lion,2014,dry,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2015,dry,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2015,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2013,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2013,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2013,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2015,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2015,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2015,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2014,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2013,wet,"Wildebeest, blue",unknown,juvenile,63.6,medium,50.9
+lion,2013,dry,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2013,dry,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2015,dry,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2015,dry,"Zebra, Burchells",female,subadult,211.5,large,148.1
+lion,2014,dry,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2013,dry,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2014,wet,"Zebra, Burchells",female,subadult,211.5,large,148.1
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2014,wet,"Zebra, Burchells",female,subadult,211.5,large,148.1
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2013,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2013,wet,"Zebra, Burchells",female,subadult,211.5,large,148.1
+lion,2015,wet,"Zebra, Burchells",female,subadult,211.5,large,148.1
+lion,2014,wet,"Zebra, Burchells",female,adult,302.2,large,211.5
+lion,2013,wet,"Zebra, Burchells",female,subadult,211.5,large,148.1
+lion,2013,wet,"Zebra, Burchells",female,subadult,211.5,large,148.1
+lion,2013,dry,"Zebra, Burchells",male,subadult,219.1,large,153.4
+lion,2014,dry,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2013,dry,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2015,dry,"Zebra, Burchells",male,subadult,219.1,large,153.4
+lion,2014,dry,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2014,dry,"Zebra, Burchells",male,subadult,219.1,large,153.4
+lion,2015,dry,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2013,dry,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2015,dry,"Zebra, Burchells",male,subadult,219.1,large,153.4
+lion,2013,dry,"Zebra, Burchells",male,subadult,219.1,large,153.4
+lion,2015,wet,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2015,wet,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2013,wet,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2014,wet,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2014,wet,"Zebra, Burchells",male,adult,313.0,large,219.1
+lion,2015,dry,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2014,dry,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2015,dry,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2013,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
+lion,2014,wet,"Zebra, Burchells",unknown,juvenile,92.3,medium,73.8
